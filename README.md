@@ -3,15 +3,15 @@
 ![image](https://github.com/user-attachments/assets/9d920669-656a-4607-bab1-f5bf41a0fafc)
 
 
-Project Title: Blinkit Analysis - Power BI Dashboard
+**Project Title: Blinkit Analysis - Power BI Dashboard**
 
-
-Description:
+****
+Description:****
 
 This Power BI dashboard provides a comprehensive analysis of blinkit's sales data, visualizing key metrics and trends. It offers insights into sales performance, product popularity, customer behavior, and outlet performance.
 
 
-Dashboard Features:
+**Dashboard Features:**
 
 Total Sales and Item Count: Visualizes overall sales and item count over time.
 
@@ -22,7 +22,7 @@ Outlet Performance: Analyzes sales by outlet size, location, and type.
 Product Performance: Explores sales by item type and fat content.
 
 
-Technical Considerations:
+**Technical Considerations:**
 
 Power BI Desktop: Used to create and design the dashboard.
 DAX Measures: Implemented to calculate key metrics and perform data analysis.
